@@ -62,3 +62,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
+<img src="https://www.canadianaffair.com/Images/canada/british-columbia/vancouver/best-of-canadas-west-2017/gallery/gall-e/max/yoho-national-park.jpg" alt="Logo">
